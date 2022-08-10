@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+#main{
+    font-size: 100px;
+    text-align: center;    
+}
+.btn{
+    width: 100px;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: 600;
+    box-shadow: 3px 3px black;
+    border-radius: 10px;
+    background: red;
+    color: white;
+}
+#listTime {
+    font-size: 30px;
+    color: rgba(0, 0, 255, 0.533);
+}
